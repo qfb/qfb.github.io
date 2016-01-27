@@ -1,0 +1,44 @@
+#wrapper{
+  text-align:center;
+  width:520px;
+  margin: 50px auto;
+}
+
+
+.home{
+  width:86px;
+  float:left;
+  margin-right: 50px;
+}
+.about{
+  width:95px;
+  float:left;
+  margin-right: 48px;
+}
+.gallery{
+  width:111px;
+  float:left;
+  margin-right: 0px;
+}
+
+#menu{
+  overflow: hidden;
+  width:390px;
+  margin:-30px auto;
+  border-top: 2px solid black;
+  padding-top: 10px;
+}
+
+#gellarymenu{
+  overflow: hidden;
+  width:390px;
+  margin:-30px auto;
+  padding-top: 10px;
+}
+
+#name{
+  overflow: hidden;
+  width:780px;
+  margin:-30px auto;
+  padding-top: 10px;
+}
